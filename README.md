@@ -16,7 +16,6 @@ LangGraph agent     router ─┬─ documents → FAISS search → Claude answe
 Claude (LLM)  ·  FAISS vector store  ·  OpenWeather API (external tool)
 ```
 
-The project is built on the Assignment 2 and 3A backends.
 
 ## Features
 
