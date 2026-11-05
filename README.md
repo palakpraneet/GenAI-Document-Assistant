@@ -1,4 +1,4 @@
-# Assignment 3B: GenAI Assistant
+# GenAI Document Assistant
 
 A document-aware chat assistant. Users log in, upload PDF/TXT files, and chat. A LangGraph agent decides, for every message, whether to answer from the user's documents (RAG, with citations), call a weather API, or reply directly. Conversation memory lasts for the session.
 
